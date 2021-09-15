@@ -1,0 +1,15 @@
+*.iml
+JetpackWanAndroid/.gradle
+/JetpackWanAndroid/local.properties
+/JetpackWanAndroid/.idea/caches
+/JetpackWanAndroid/.idea/libraries
+/JetpackWanAndroid/.idea/modules.xml
+/JetpackWanAndroid/.idea/workspace.xml
+/JetpackWanAndroid/.idea/navEditor.xml
+/JetpackWanAndroid/.idea/assetWizardSettings.xml
+.DS_Store
+/JetpackWanAndroid/build
+/JetpackWanAndroid/captures
+.externalNativeBuild
+.cxx
+local.properties
