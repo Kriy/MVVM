@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="lib_base/src/main/res/drawable/edittext_cursor_color.xml" value="0.1648148148148148" />
+        <entry key="lib_base/src/main/res/drawable/home_list_divier.xml" value="0.1648148148148148" />
+        <entry key="lib_base/src/main/res/drawable/search_bg.xml" value="0.1648148148148148" />
+        <entry key="lib_base/src/main/res/layout/abs_list_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
